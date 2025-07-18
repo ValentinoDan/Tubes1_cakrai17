@@ -70,17 +70,17 @@ git clone https://github.com/ValentinoDan/Tubes1_cakrai17.git
 ```
 2. Inisiasi Program Menggunakan g++
 ```bash
-g++ fsm.cpp main.cpp -o program
+g++ fsm.cpp main.cpp -o run
 ```
 3. Muncul File program.exe Pada Folder Seperti Struktur Berikut
 ```bash
+├── README.md
 ├── fsm.cpp
 ├── fsm.hpp
 ├── main.cpp
-├── README.md
-└── program.exe
+└── run.exe
 ```       
 4. Jalankan Program
 ```bash
-.\program.exe
+.\run.exe
 ```
