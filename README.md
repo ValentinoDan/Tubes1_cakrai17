@@ -72,7 +72,7 @@ git clone https://github.com/ValentinoDan/Tubes1_cakrai17.git
 ```bash
 g++ fsm.cpp main.cpp -o run
 ```
-3. Muncul File program.exe Pada Folder Seperti Struktur Berikut
+3. Muncul File run.exe Pada Folder Seperti Struktur Berikut
 ```bash
 ├── README.md
 ├── fsm.cpp
